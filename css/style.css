@@ -1270,6 +1270,7 @@ header{
 	background-color: #fff;
 	text-align: left;
 	padding: 20px;
+	height: 350px;
 }
 .boxes-info h3{
 	font-weight: 800;
@@ -2718,6 +2719,13 @@ address strong{
 
     
 } 
+
+.tp-banner img{
+  filter: blur(0.2px);
+
+}
+
+
 
 
 
